@@ -1,8 +1,8 @@
 # 知识点索引
 
 ## HTML/CSS
-![图片](./public/images/HTML(simple).jpg)
-![完整版](./public/images/HTML(full).jpg)
++ [HTML知识思维导图](./public/pdf/HTML.pdf)
++ [CSS知识思维导图](index.md)
 
 ## JS      
 ## Node
